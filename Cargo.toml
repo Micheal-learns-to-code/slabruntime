@@ -1,7 +1,7 @@
 [package]
 name = "slabruntime"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
 authors = ["Manh Ha Nguyen <ha.nguyen.prof@gmail.com>"]
 description = "CP210X Runtime library in Rust"
 homepage = "https://github.com/Micheal-learns-to-code/slabruntime"
