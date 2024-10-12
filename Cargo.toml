@@ -1,0 +1,15 @@
+[package]
+name = "slabruntime"
+version = "0.1.0"
+edition = "2024"
+authors = ["Manh Ha Nguyen <ha.nguyen.prof@gmail.com>"]
+description = "CP210X Runtime library in Rust"
+homepage = "https://github.com/Micheal-learns-to-code/slabruntime"
+repository = "https://github.com/Micheal-learns-to-code/slabruntime.git"
+readme = "README.md"
+license = "MIT"
+keywords = ["usb","hardware","cp210x","runtime"]
+
+
+[dependencies]
+rusb = "0.9.4"
